@@ -26,5 +26,18 @@ body{
 
 .header a:hover{
     text-decoration: underline;
-    
+
 }
+
+.header__right{
+    display: flex;
+    align-items: center;
+    min-width: 13vw;
+    justify-content: center;
+
+}
+
+.header__right .header__apps{
+margin-right: 10px;
+}
+
