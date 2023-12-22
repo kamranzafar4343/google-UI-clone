@@ -6,6 +6,7 @@ body{
     display: flex;
     flex-direction: column;
     height: 100vh;
+    /* background-color: black; */
 }
 
 .header{
@@ -40,4 +41,7 @@ body{
 .header__right .header__apps{
 margin-right: 10px;
 }
-
+/* 
+.mainBody{
+    margin: 200px 500px 0px 100px;
+} */
