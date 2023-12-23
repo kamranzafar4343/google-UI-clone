@@ -41,7 +41,10 @@ body{
 .header__right .header__apps{
 margin-right: 10px;
 }
-/* 
+
+
 .mainBody{
-    margin: 200px 500px 0px 100px;
-} */
+object-fit: contain;
+height: 100px;
+}
+
