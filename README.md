@@ -21,20 +21,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/google-ui-clone.git
+   git clone https://github.com/kamranzafar4343/google-UI-clone.git
    ```
 
 2. **Open the Project:**
    ```
-   cd google-ui-clone
+   cd google-UI-clone
    ```
 
 3. **Open `index.html` in a Web Browser:**
    Open the `index.html` file in your preferred web browser to view the Google UI clone.
-
-## Screenshots
-
-Include screenshots or GIFs of your Google UI clone in action. This helps users quickly understand what your project looks like and how it functions.
 
 ## Contributing
 
