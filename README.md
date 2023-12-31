@@ -34,15 +34,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Contributing
 
-If you would like to contribute to the project, feel free to submit pull requests. Bug reports, feature requests, and feedback are also welcome. Please adhere to the [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If you would like to contribute to the project, feel free to submit pull requests. Bug reports, feature requests, and feedback are also welcome. 
 
 ## Acknowledgments
 
-- Inspiration: https://www.youtube.com/watch?v=zhH9uvTOyQM&pp=ygUbZ29vZ2xlIHVpIGNsb25lIGluIGh0bWwgY3Nz
+- Tutorial: https://www.youtube.com/watch?v=zhH9uvTOyQM&pp=ygUbZ29vZ2xlIHVpIGNsb25lIGluIGh0bWwgY3Nz
 
 ## Contact
 
