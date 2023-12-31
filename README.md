@@ -2,12 +2,11 @@
 
 ## Project Description
 
-This project aims to create a user interface (UI) clone of Google, one of the most widely used search engines globally. The purpose is to demonstrate the ability to replicate the visual elements and functionality of the Google search page using HTML, CSS, and possibly JavaScript.
+This project aims to create a user interface (UI) clone of Google, one of the most widely used search engines globally. The purpose is to demonstrate the ability to replicate the visual elements and functionality of the Google search page using HTML and CSS.
 
 ## Features
 
 - **Search Bar:** An interactive search bar that closely resembles the Google search bar.
-- **Search Results:** Display search results in a similar format to Google, including links, titles, and descriptions.
 - **Google Logo:** Include a clone of the Google logo for authenticity.
 - **Responsive Design:** Ensure that the UI is responsive and works well across different devices and screen sizes.
 
@@ -15,7 +14,6 @@ This project aims to create a user interface (UI) clone of Google, one of the mo
 
 - HTML
 - CSS
-- JavaScript (optional, for enhanced interactivity)
 
 ## Getting Started
 
@@ -54,8 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or concerns, please feel free to reach out to the project maintainer:
 
-- Your Name
-- Your Email
-- Your Social Media (Optional)
-
+- Kamran Zafar
+- kamranzafar4343@gmail.com
+  
 Happy coding!
