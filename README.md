@@ -42,7 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspiration: Mention any tutorials, articles, or projects that inspired your Google UI clone.
+- Inspiration: https://www.youtube.com/watch?v=zhH9uvTOyQM&pp=ygUbZ29vZ2xlIHVpIGNsb25lIGluIGh0bWwgY3Nz
 
 ## Contact
 
